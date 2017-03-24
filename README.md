@@ -1,6 +1,6 @@
 # FranzAnt
 
-My version of the magic Langton's Ant game whit some more features (and bugs :^).
+My version of the magic Langton's Ant game with some more features (and bugs :^).
 
 # Features
 - 4 differents moves (UP, DOWN, LEFT. RIGTH);
